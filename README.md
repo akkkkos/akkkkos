@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ákos</h1>
-<h3 align="center">A passionate software developer from Hungary</h3>
-<h3 align="center">Currently in middle-school so not exactly a software developer</h3>
+<h3 align="center">A passionate software engineer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akkkkos" alt="akkkkos" /> </p>
-
-- 🔭 I’m currently working on **a Discord-bot**
-
-- 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **akosbalogh16@gmail.com**
 
